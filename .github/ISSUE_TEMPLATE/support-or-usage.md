@@ -1,7 +1,10 @@
 ---
 name: "\U0001F914 Support or Usage Question"
 about: Get help using node-fetch
+title: ''
 labels: question
+assignees: ''
+
 ---
 
 <!--
